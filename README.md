@@ -20,7 +20,7 @@
 - yfinance
 
 > Marchine Learning
--
+- prophet
 
 > <b>Base de dados e projeto:</b>
 - <b>Google Sheets:</b> https://docs.google.com/spreadsheets/d/1sOsJaj41XwgjUuXbnAxfccwMKD9v-4DtSNsWHWELx1U/edit?usp=sharing
