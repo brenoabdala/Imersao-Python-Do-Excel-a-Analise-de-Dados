@@ -12,6 +12,7 @@
 > <b>Bibliotecas utilizadas no projeto python:</b>
 - Pandas
 - Plotly Express
+- Matplolib
 
 > <b>Base de dados e projeto:</b>
 - <b>Google Sheets:</b> https://docs.google.com/spreadsheets/d/1sOsJaj41XwgjUuXbnAxfccwMKD9v-4DtSNsWHWELx1U/edit?usp=sharing
