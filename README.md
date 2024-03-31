@@ -15,4 +15,5 @@
 
 > <b>Base de dados e projeto:</b>
 - <b>Google Sheets:</b> https://docs.google.com/spreadsheets/d/1sOsJaj41XwgjUuXbnAxfccwMKD9v-4DtSNsWHWELx1U/edit?usp=sharing
-- <b>Google Colab:</b> https://colab.research.google.com/drive/1epuTK_3RMTm-5H3-aLozC0sWA_ibo1R9?usp=sharing
+- <b>Google Colab Parte 01:</b> https://colab.research.google.com/drive/1epuTK_3RMTm-5H3-aLozC0sWA_ibo1R9?usp=sharing
+- <b>Google Colab Parte 02:</b> https://colab.research.google.com/drive/1wDfaJUdHnzDHhTGwUEhdMeewauYfBMUI
