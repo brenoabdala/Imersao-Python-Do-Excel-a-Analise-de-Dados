@@ -13,8 +13,17 @@
 - Pandas
 - Plotly Express
 - Matplolib
+- yfinance
+- prophet
+
+> APIs Utilizadas
+- yfinance
+
+> Marchine Learning
+-
 
 > <b>Base de dados e projeto:</b>
 - <b>Google Sheets:</b> https://docs.google.com/spreadsheets/d/1sOsJaj41XwgjUuXbnAxfccwMKD9v-4DtSNsWHWELx1U/edit?usp=sharing
 - <b>Google Colab Parte 01:</b> https://colab.research.google.com/drive/1epuTK_3RMTm-5H3-aLozC0sWA_ibo1R9?usp=sharing
 - <b>Google Colab Parte 02:</b> https://colab.research.google.com/drive/1wDfaJUdHnzDHhTGwUEhdMeewauYfBMUI
+- <b>Google Colab Parte 03:</b> https://colab.research.google.com/drive/1vjoKjJHK5s5phhpjTZJ3IEzzDb34D6PG
