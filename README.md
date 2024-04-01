@@ -16,10 +16,10 @@
 - yfinance
 - prophet
 
-> APIs Utilizadas
+> <b>APIs Utilizadas</b>
 - yfinance
 
-> Marchine Learning
+> <b>Marchine Learning</b>
 - prophet
 
 > <b>Base de dados e projeto:</b>
