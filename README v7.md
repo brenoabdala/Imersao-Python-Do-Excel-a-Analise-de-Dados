@@ -1,6 +1,6 @@
 # Imersão Python: Do Excel à Análise de Dados
 
-<p>Imersão alura, trabalha inicialmente com analise e construção de formulas para analise e tratamento e geração de gráficos no google sheets. Em segundo momento iniciou-se a analise de dados por meio de python e foi gerado arquivos e gráficos sobre a base de dados.</p>
+<p>Imersão alura, trabalha inicialmente com analise, construção de formulas para analise, tratamento e geração de gráficos no google sheets. Em segundo momento iniciou-se a analise de dados por meio de python, onde foi gerado arquivos no google colab e gráficos sobre a base de dados.</p>
 
 > <b>Módulos da Imersão:</b>
 - Análise Exploratória com Google Sheets
